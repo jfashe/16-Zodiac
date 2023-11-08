@@ -2,7 +2,7 @@
 // Prof. Gooch - COSC-1436
 // Created on 11/7/2023
 // Zodiac Assignment 16
-// 
+// C++ Assignment: Zodiac Sign Identifier
 // 
 
 using namespace std;
